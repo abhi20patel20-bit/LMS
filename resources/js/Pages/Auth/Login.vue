@@ -67,7 +67,7 @@ const submit = async () => {
             <div
               class="text-surface-900 dark:text-surface-0 text-3xl font-medium mb-4"
             >
-              Welcome to MPQC!
+              Welcome to LMS!
             </div>
             <span class="text-muted-color font-medium"
               >Sign in to continue</span
